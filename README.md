@@ -16,9 +16,9 @@ It would be interesting to develop this device in the form of a bracelet, making
 
 1. Check the components: [/docs/Components.csv](https://raw.githubusercontent.com/robertovicario/Smoke-Please/main/docs/Components.csv)
 
-2. Follow the schematic: [/docs/Scheme.jpg](https://raw.githubusercontent.com/robertovicario/Smoke-Please/main/docs/Scheme.jpg)
+2. Follow the schematic: [/docs/Schematic.jpg](https://raw.githubusercontent.com/robertovicario/Smoke-Please/main/docs/Schematic.jpg)
 
-3. Try Smoke-Please on Tinkercad: [tinkercad.com/things/lsgOMdHbTs8-smokeplease](https://www.tinkercad.com/things/lsgOMdHbTs8-smoke-please)
+3. Try Smoke-Please on Tinkercad: [tinkercad.com/things/lsgOMdHbTs8-smoke-please](https://www.tinkercad.com/things/lsgOMdHbTs8-smoke-please)
 
 > [!NOTE]
 >
@@ -26,15 +26,17 @@ It would be interesting to develop this device in the form of a bracelet, making
 
 ## Preview
 
-<tr>
-    <td><img src="https://raw.githubusercontent.com/robertovicario/Smoke-Please/main/docs/Circuit.png" alt="Circuit" width=512>></td>
-    <td><img src="https://raw.githubusercontent.com/robertovicario/Smoke-Please/main/docs/Scheme.jpg" alt="Scheme" width=512>></td>
-</tr>
-<tr>
-    <td align="center">Circuit</td>
-    <td align="center">Scheme</td>
-</tr>
+<table>
+    <tr>
+        <td><img src="https://raw.githubusercontent.com/robertovicario/Smoke-Please/main/docs/Circuit.png" alt="Circuit" width=512>></td>
+        <td><img src="https://raw.githubusercontent.com/robertovicario/Smoke-Please/main/docs/Schematic.jpg" alt="Schematic" width=512>></td>
+    </tr>
+    <tr>
+        <td align="center">Circuit</td>
+        <td align="center">Schematic</td>
+    </tr>
+</table>
 
 ## License
 
-This project is distributed under [Apache License 2.0](https://opensource.org/license/apache-2-0). You can find the complete text of the license in the project repository.
+This project is distributed under [Apache License, Version 2.0](https://opensource.org/license/apache-2-0). You can find the complete text of the license in the project repository.
