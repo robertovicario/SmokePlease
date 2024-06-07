@@ -18,7 +18,7 @@ It would be interesting to develop this device in the form of a bracelet, making
 
 2. Follow the schematic: [/docs/Scheme.jpg](https://raw.githubusercontent.com/robertovicario/SmokePlease/main/docs/Scheme.jpg)
 
-3. Try SmokePlease on Tinkercad: [tinkercad.com/things/lsgOMdHbTs8-smokeplease](https://www.tinkercad.com/things/lsgOMdHbTs8-smokeplease)
+3. Try Smoke-Please on Tinkercad: [tinkercad.com/things/lsgOMdHbTs8-smokeplease](https://www.tinkercad.com/things/lsgOMdHbTs8-smoke-please)
 
 > [!NOTE]
 >
@@ -26,10 +26,15 @@ It would be interesting to develop this device in the form of a bracelet, making
 
 ## Preview
 
-| <img src="https://raw.githubusercontent.com/robertovicario/SmokePlease/main/docs/Circuit.png" alt="Circuit" width=512> |
-| :--: |
-| Circuit |
+<tr>
+    <td><img src="https://raw.githubusercontent.com/robertovicario/SmokePlease/main/docs/Circuit.png" alt="Circuit" width=512>></td>
+    <td><img src="https://raw.githubusercontent.com/robertovicario/SmokePlease/main/docs/Scheme.jpg" alt="Scheme" width=512>></td>
+</tr>
+<tr>
+    <td align="center">Circuit</td>
+    <td align="center">Scheme</td>
+</tr>
 
 ## License
 
-This project is distributed under [GNU General Public License version 3](https://opensource.org/license/gpl-3-0). You can find the complete text of the license in the project repository.
+This project is distributed under [Apache 2.0](https://opensource.org/license/apache-2-0). You can find the complete text of the license in the project repository.
