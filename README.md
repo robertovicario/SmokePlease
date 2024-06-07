@@ -12,18 +12,6 @@ The main goal is to limit the number of inhalations per cigarette, thus encourag
 
 It would be interesting to develop this device in the form of a bracelet, making it suitable for daily use. To implement the circuit, it would be sufficient to use an Arduino Micro, replace the potentiometer with a heart rate sensor, and add a battery for power.
 
-## Instructions
-
-1. Check the components: [/docs/Components.csv](https://raw.githubusercontent.com/robertovicario/Smoke-Please/main/docs/Components.csv)
-
-2. Follow the schematic: [/docs/Schematic.jpg](https://raw.githubusercontent.com/robertovicario/Smoke-Please/main/docs/Schematic.jpg)
-
-3. Try Smoke-Please on Tinkercad: [tinkercad.com/things/lsgOMdHbTs8-smoke-please](https://www.tinkercad.com/things/lsgOMdHbTs8-smoke-please)
-
-> [!NOTE]
->
-> This circuit employs a potentiometer to mimic the functionality of a heart rate sensor. The potentiometer's values fluctuate based on user inputs as an heart rate sensor.
-
 ## Preview
 
 <table>
@@ -36,6 +24,18 @@ It would be interesting to develop this device in the form of a bracelet, making
         <td align="center">Schematic</td>
     </tr>
 </table>
+
+## Instructions
+
+1. Check the components: [/docs/Components.csv](https://raw.githubusercontent.com/robertovicario/Smoke-Please/main/docs/Components.csv)
+
+2. Follow the schematic: [/docs/Schematic.jpg](https://raw.githubusercontent.com/robertovicario/Smoke-Please/main/docs/Schematic.jpg)
+
+3. Try Smoke-Please on Tinkercad: [tinkercad.com/things/lsgOMdHbTs8-smoke-please](https://www.tinkercad.com/things/lsgOMdHbTs8-smoke-please)
+
+> [!NOTE]
+>
+> This circuit employs a potentiometer to mimic the functionality of a heart rate sensor. The potentiometer's values fluctuate based on user inputs as an heart rate sensor.
 
 ## License
 
