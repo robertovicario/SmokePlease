@@ -14,9 +14,9 @@ It would be interesting to develop this device in the form of a bracelet, making
 
 ## Instructions
 
-1. Check the components: [/docs/Components.csv](https://raw.githubusercontent.com/robertovicario/SmokePlease/main/docs/Components.csv)
+1. Check the components: [/docs/Components.csv](https://raw.githubusercontent.com/robertovicario/Smoke-Please/main/docs/Components.csv)
 
-2. Follow the schematic: [/docs/Scheme.jpg](https://raw.githubusercontent.com/robertovicario/SmokePlease/main/docs/Scheme.jpg)
+2. Follow the schematic: [/docs/Scheme.jpg](https://raw.githubusercontent.com/robertovicario/Smoke-Please/main/docs/Scheme.jpg)
 
 3. Try Smoke-Please on Tinkercad: [tinkercad.com/things/lsgOMdHbTs8-smokeplease](https://www.tinkercad.com/things/lsgOMdHbTs8-smoke-please)
 
@@ -27,8 +27,8 @@ It would be interesting to develop this device in the form of a bracelet, making
 ## Preview
 
 <tr>
-    <td><img src="https://raw.githubusercontent.com/robertovicario/SmokePlease/main/docs/Circuit.png" alt="Circuit" width=512>></td>
-    <td><img src="https://raw.githubusercontent.com/robertovicario/SmokePlease/main/docs/Scheme.jpg" alt="Scheme" width=512>></td>
+    <td><img src="https://raw.githubusercontent.com/robertovicario/Smoke-Please/main/docs/Circuit.png" alt="Circuit" width=512>></td>
+    <td><img src="https://raw.githubusercontent.com/robertovicario/Smoke-Please/main/docs/Scheme.jpg" alt="Scheme" width=512>></td>
 </tr>
 <tr>
     <td align="center">Circuit</td>
@@ -37,4 +37,4 @@ It would be interesting to develop this device in the form of a bracelet, making
 
 ## License
 
-This project is distributed under [Apache 2.0](https://opensource.org/license/apache-2-0). You can find the complete text of the license in the project repository.
+This project is distributed under [Apache License 2.0](https://opensource.org/license/apache-2-0). You can find the complete text of the license in the project repository.
