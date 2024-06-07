@@ -28,8 +28,8 @@ It would be interesting to develop this device in the form of a bracelet, making
 
 <table>
     <tr>
-        <td><img src="https://raw.githubusercontent.com/robertovicario/Smoke-Please/main/docs/Circuit.png" alt="Circuit" width=512>></td>
-        <td><img src="https://raw.githubusercontent.com/robertovicario/Smoke-Please/main/docs/Schematic.jpg" alt="Schematic" width=512>></td>
+        <td><img src="https://raw.githubusercontent.com/robertovicario/Smoke-Please/main/docs/Circuit.png" alt="Circuit" width=512></td>
+        <td><img src="https://raw.githubusercontent.com/robertovicario/Smoke-Please/main/docs/Schematic.jpg" alt="Schematic" width=512></td>
     </tr>
     <tr>
         <td align="center">Circuit</td>
