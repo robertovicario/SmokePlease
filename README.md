@@ -16,8 +16,8 @@ It would be interesting to develop this device in the form of a bracelet, making
 
 <table>
     <tr>
-        <td><img src="https://raw.githubusercontent.com/robertovicario/Smoke-Please/main/docs/Circuit.png" alt="Circuit" width=512></td>
-        <td><img src="https://raw.githubusercontent.com/robertovicario/Smoke-Please/main/docs/Schematic.jpg" alt="Schematic" width=512></td>
+        <td><img src="https://raw.githubusercontent.com/robertovicario/SmokePlease/main/docs/Circuit.png" alt="Circuit" width=512></td>
+        <td><img src="https://raw.githubusercontent.com/robertovicario/SmokePlease/main/docs/Schematic.jpg" alt="Schematic" width=512></td>
     </tr>
     <tr>
         <td align="center">Circuit</td>
@@ -27,11 +27,11 @@ It would be interesting to develop this device in the form of a bracelet, making
 
 ## Instructions
 
-1. Check the components: [/docs/Components.csv](https://raw.githubusercontent.com/robertovicario/Smoke-Please/main/docs/Components.csv)
+1. Check the components: [/docs/Components.csv](https://raw.githubusercontent.com/robertovicario/SmokePlease/main/docs/Components.csv)
 
-2. Follow the schematic: [/docs/Schematic.jpg](https://raw.githubusercontent.com/robertovicario/Smoke-Please/main/docs/Schematic.jpg)
+2. Follow the schematic: [/docs/Schematic.jpg](https://raw.githubusercontent.com/robertovicario/SmokePlease/main/docs/Schematic.jpg)
 
-3. Try Smoke-Please on Tinkercad: [tinkercad.com/things/lsgOMdHbTs8-smoke-please](https://www.tinkercad.com/things/lsgOMdHbTs8-smoke-please)
+3. Try SmokePlease on Tinkercad: [tinkercad.com/things/lsgOMdHbTs8-smokeplease](https://www.tinkercad.com/things/lsgOMdHbTs8-smokeplease)
 
 > [!NOTE]
 >
